@@ -1,0 +1,5 @@
+One of the users found a Nuxt module that could make this easier - 
+https://vuemadness.com/vuehub/nuxt-chatgpt/
+
+Link to the GitHub - 
+https://github.com/SchnapsterDog/nuxt-chatgpt?tab=readme-ov-file
